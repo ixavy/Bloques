@@ -1,0 +1,7 @@
+//
+// Prefix header for all source files of the 'Bloques' target in the 'Bloques' project
+//
+
+#ifdef __OBJC__
+    #import <Foundation/Foundation.h>
+#endif
